@@ -1,2 +1,2 @@
-# silverstripe2
+# silverstripe
 test silverstripe project
